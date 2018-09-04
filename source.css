@@ -18,7 +18,7 @@ a:hover{color:red;
 .tacophotos{
 	border-width: 20px;
 	border-color: black;
-	border-style: ridge;
+	border-style: solid;
 	margin-right: 10px;
 }
 
