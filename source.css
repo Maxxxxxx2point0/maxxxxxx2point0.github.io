@@ -16,9 +16,9 @@ a:hover{color:red;
 	font-family:cursive;}
 
 .tacophotos{
-	border-width: 10px;
+	border-width: 20px;
 	border-color: black;
-	border-style: ridge ;
+	border-style: groove;
 	margin-right: 10px;
 }
 
