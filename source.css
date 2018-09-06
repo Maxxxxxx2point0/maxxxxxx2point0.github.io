@@ -1,5 +1,6 @@
 .Head{
-
+  text-shadow: red;
+  color: purple;
 }
 .index{
   background-image: url();
