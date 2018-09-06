@@ -1,37 +1,14 @@
+
+.index{
+  background-image: url(background.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+
 .Head{
   text-shadow: red;
   color: white;
   font-size: 60px;
-}
-.index{
-  background-image: url(background.png);
-  background-repeat: no-repeat;
-  background-size: auto;
-  background-attachment: fixed;
-}
-.pageone{
-  background-image: url(background.png);
-  background-repeat: no-repeat;
-  background-size: auto;
-  background-attachment: fixed;
-}
-.pagetwo{
-  background-image: url(background.png);
-  background-repeat: no-repeat;
-  background-size: auto;
-  background-attachment: fixed;
-}
-.pagethree{
-  background-image: url(background.png);
-  background-repeat: no-repeat;
-  background-size: auto;
-  background-attachment: fixed;
-}
-.pagefour{
-  background-image: url(background.png);
-  background-repeat: no-repeat;
-  background-size: auto;
-  background-attachment: fixed;
 }
 body{
   text-align: center;
