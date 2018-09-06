@@ -21,13 +21,11 @@ a:visited{color:#ff05d4;}
 a:hover{color: cyan;
 font-size: 20px;
 font-family: monospace;}
-.Password{
 
-}
 .pageone{
 
 }
 .pic{
   width: 350px;
-  float:left;
+  float:left-center;
 }
