@@ -1,6 +1,7 @@
 .Head{
   text-shadow: red;
   color: purple;
+  font-size: 30px;
 }
 .index{
   <!background-image: url();
@@ -28,5 +29,5 @@ font-family: monospace;}
 }
 .pic{
   width: 350px;
-  float:left-center;
+  float:center;
 }
