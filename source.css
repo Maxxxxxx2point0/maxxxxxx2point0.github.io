@@ -15,6 +15,7 @@ hr{
   width:50%;
   border-style: groove;
   background-color: blue;
+  border-width: thick;
 }
 a:link{color:blue;}
 a:visited{color:#ff05d4;}
