@@ -15,3 +15,8 @@ hr{
   border-style: groove;
   background-color: blue;
 }
+a:link{color:blue;}
+a:visited{color:#ff05d4;}
+a:hover{color: cyan;
+font-size: 20px;
+font-family: monospace;}
