@@ -2,15 +2,15 @@
 
 }
 .index{
-  background-color: pink;
+  background-image: url();
 }
 body{
   text-align: center;
 }
 hr{
-  height: 20px;
-  border-color: blue;
+  height: 10px;
+  border-color: red;
   width:50%;
   border-style: groove;
-  background-color: red;
+  background-color: blue;
 }
