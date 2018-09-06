@@ -12,11 +12,11 @@ body{
 }
 hr{
   height: 10px;
-  border-color: red;
+  border-color: blue;
   width:50%;
   border-style: groove;
   background-color: blue;
-  border-width: thick;
+  border-width: thin;
 }
 a:link{color:blue;}
 a:visited{color:#ff05d4;}
@@ -29,5 +29,5 @@ font-family: monospace;}
 }
 .pic{
   width: 350px;
-  float:center;
+  float: center;
 }
