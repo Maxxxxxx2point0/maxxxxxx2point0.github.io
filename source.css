@@ -1,15 +1,35 @@
-.Head{
 
-}
 .index{
-  background-color: pink;
+  background-image: url(background.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
 }
+.Head{text-shadow: red;
+color: white;
+font-size: 60px;}
 body{
-  text-align: center;
-}
-.Kellie{
-  font-size: 30px;
-  font-family: monospace;
-  color: red;
+  text-align:center;
 
+}
+hr{
+  height: 10px;
+  border-color: blue;
+  width:50%;
+  border-style: groove;
+  background-color: blue;
+  border-width: thin;
+}
+a:link{color:blue;}
+a:visited{color:#ff05d4;}
+a:hover{color: cyan;
+font-size: 20px;
+font-family: monospace;}
+
+.pic{
+  width: 400px;
+  float: left;
+}
+.headp{
+  color:white;
 }
