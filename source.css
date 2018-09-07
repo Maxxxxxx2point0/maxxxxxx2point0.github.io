@@ -29,6 +29,7 @@ font-family: monospace;}
 .pic{
   width: 400px;
   float: left;
+  margin-right: auto;
 }
 .headp{
   color:white;
