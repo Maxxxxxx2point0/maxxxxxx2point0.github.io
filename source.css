@@ -14,15 +14,15 @@ body{
 }
 hr{
   height: 10px;
-  border-color: blue;
+  border-color: white;
   width:50%;
   border-style: groove;
-  background-color: blue;
+  background-color: white;
   border-width: thin;
 }
 a:link{color:red;}
-a:visited{color:#ff05d4;}
-a:hover{color: cyan;
+a:visited{color:green;}
+a:hover{color: white;
 font-size: 20px;
 font-family: monospace;}
 
@@ -35,4 +35,8 @@ font-family: monospace;}
 }
 .links{
   color: white;
+}
+.Christianity{
+  color: white;
+  background-color: black;
 }
