@@ -31,6 +31,10 @@ font-family: monospace;}
   float: left;
   margin-right: 20px;
 }
+.pics{
+  width: 400px;
+  float: left;
+}
 .headp{
   color:white;
 }
