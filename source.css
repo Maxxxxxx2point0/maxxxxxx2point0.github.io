@@ -49,9 +49,11 @@ font-family: monospace;}
 .Christianity{
   color: white;
   text-align: left;
+  border-style: solid;
 
 }
 #tain{
   color: white;
   font-size: 30px;
+  text-align: left;
 }
