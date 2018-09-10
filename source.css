@@ -28,7 +28,7 @@ font-family: monospace;}
 
 .pic{
   width: 400px;
-  float:none;
+  float:left;
   margin-right: 20px;
 }
 .pics{
