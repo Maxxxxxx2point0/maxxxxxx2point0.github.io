@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<meta charset = "utf-8">
+<title>Notes for Friday</title>
+<style type = "text/css">
+</head>
+<body>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+</body>

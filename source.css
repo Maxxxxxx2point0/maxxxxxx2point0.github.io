@@ -8,10 +8,13 @@
 
 .Head{text-shadow: red;
 color: white;
-font-size: 60px;}
+font-size: 60px;
+font-family: sans-serif;
+}
 
 body{
   text-align:center;
+  color: white;
 
 }
 hr{
@@ -31,7 +34,8 @@ font-family: monospace;}
 .pic{
   width: 400px;
   float:left;
-  margin-right: 20px;
+  margin-right: 40px;
+  margin-left: 300px;
 }
 .pics{
   width: 400px;
@@ -46,15 +50,19 @@ font-family: monospace;}
   color: white;
   text-align: left;
 }
-.Christianity{
+.Christianity span{
   color: white;
+  background-color: black;
+}
+.Christianity{
   text-align: left;
-  border-style: solid;
-  border-spacing: inherit;
-
 }
 #tain{
   color: white;
   font-size: 30px;
-  text-align: center;
+  text-align: left;
+  margin-left: 500px;
+}
+.list{
+  text-align: left;
 }

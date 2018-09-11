@@ -1,0 +1,17 @@
+Tim Bernes Le created www
+1993 browsers were born
+https = Hyper text transfer protocol secure
+http = Hyper text transfer protocol
+www = web server
+.sitename. = domain name
+.com .org .edu .gov = organization 
+Hyptertext markup language = html
+<> = tag one sided
+</> = tag two sided
+<!DOCTYPE html> = begginging of every line of website
+textpad8 = free then need to pay
+notepad++ = free
+
+
+<!let's talk about style sheats>
+<!CSS = cascading style sheet>
