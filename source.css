@@ -50,10 +50,11 @@ font-family: monospace;}
   color: white;
   text-align: left;
   border-style: solid;
+  border-spacing: inherit;
 
 }
 #tain{
   color: white;
   font-size: 30px;
-  text-align: left;
+  text-align: center;
 }
