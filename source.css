@@ -73,8 +73,10 @@ font-family: monospace;}
 .suls{
   text-align: left;
 }
-.More span{
+.More {
   text-align: center;
+  margin-left: 450px
+}
 
 .picses{
   width: 400px;
@@ -83,5 +85,18 @@ font-family: monospace;}
   margin-left: 200px;
 }
 .random{
+  display: block;
+  border: 0px;
+  height: 20px;
   background-image: url(random.jpg);
+}
+.listss{
+text-align: left;
+margin-left: 700px;
+}
+.picss{
+  width: 400px;
+  float:right;
+  margin-right: 40px;
+  margin-left: 1px;
 }
