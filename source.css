@@ -35,21 +35,26 @@ font-family: monospace;}
   width: 400px;
   float:left;
   margin-right: 40px;
-  margin-left: 300px;
+  margin-left: 200px;
 }
 .pics{
   width: 400px;
   float: left;
   margin-right: 20px;
   margin-bottom: 50px;
+  margin-left: 200px;
 }
 .headp{
   color:white;
 }
 .links{
   color: white;
+  text-align: center;
+}
+.linksys{
+  color:white;
   text-align: left;
-  margin-right: 420px;
+  margin-left: 500px;
 }
 .Christianity span{
   color: white;
@@ -57,15 +62,17 @@ font-family: monospace;}
 }
 .Christianity{
   text-align: left;
+  margin-left: 400px;
 }
 #tain{
   color: white;
   font-size: 30px;
-  text-align: left;
-  margin-left: 500px;
+  text-align: center;
+
 }
 .list{
   text-align: left;
+  margin-left: 200px;
 }
 .sul{
   text-align: left;
@@ -82,7 +89,7 @@ font-family: monospace;}
 .picses{
   width: 400px;
   float:left;
-  margin-right: 40px;
+  margin-right: 20px;
   margin-left: 200px;
 }
 .random{
@@ -95,13 +102,23 @@ font-family: monospace;}
 }
 .listss{
 text-align: left;
-margin-left: 700px;
+margin-left: 400px;
 }
 .picss{
   width: 400px;
   float:right;
   margin-right: 40px;
   margin-left: 20px;
+}
+.picsys{
+  width: 400px;
+  float:right;
+  margin-right: 150px;
+}
+.picsyss{
+  width: 400px;
+  float:right;
+  margin-right: 50px;
 }
 .picture{
   width: 400px;
@@ -122,4 +139,8 @@ margin-left: 700px;
 .copys{
   text-align: center;
   margin-right: 400px;
+}
+.backpack{
+  text-align: right;
+  margin-right: 100px;
 }
