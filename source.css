@@ -49,6 +49,7 @@ font-family: monospace;}
 .links{
   color: white;
   text-align: left;
+  margin-right: 420px;
 }
 .Christianity span{
   color: white;
@@ -89,6 +90,8 @@ font-family: monospace;}
   border: 0px;
   height: 20px;
   background-image: url(random.jpg);
+  margin-right: 400px;
+  width: 45%;
 }
 .listss{
 text-align: left;
@@ -98,5 +101,25 @@ margin-left: 700px;
   width: 400px;
   float:right;
   margin-right: 40px;
-  margin-left: 1px;
+  margin-left: 20px;
+}
+.picture{
+  width: 400px;
+  height: 700px;
+  float: left;
+}
+.Headss{
+  text-shadow: red;
+  color: white;
+  font-size: 60px;
+  font-family: sans-serif;
+  margin-right: 400px;
+}
+.Morestuff{
+  text-align: center;
+  margin-right: 400px;
+}
+.copys{
+  text-align: center;
+  margin-right: 400px;
 }
