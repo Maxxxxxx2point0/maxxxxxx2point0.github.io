@@ -139,7 +139,7 @@ margin-left: 400px;
 }
 .Morestuff{
   text-align: center;
-  margin-right: 400px;
+  margin-right: 450px;
 }
 .copys{
   text-align: center;
@@ -148,4 +148,13 @@ margin-left: 400px;
 .backpack{
   text-align: right;
   margin-right: 100px;
+}
+.rabbit{
+  width: 400px;
+  float: left;
+  margin-left: 100px;
+}
+#waffle{
+  text-align: left;
+  margin-left: 175px;
 }
