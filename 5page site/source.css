@@ -1,0 +1,161 @@
+
+.index{
+  background-image: url(background.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+.Head{text-shadow: red;
+color: white;
+font-size: 60px;
+font-family: sans-serif;
+}
+
+body {
+  text-align:center;
+  color: white;
+
+}
+hr{
+  height: 15px;
+  border-color: white;
+  width:50%;
+  border-style: groove;
+  background-color: white;
+  border-width: thin;
+}
+a:link{color:red;}
+a:visited{color:#00ff21;}
+a:hover{color: white;
+font-size: 20px;
+font-family: monospace;}
+
+.pic{
+  width: 400px;
+  float:left;
+  margin-right: 40px;
+  margin-left: 200px;
+}
+.pics{
+  width: 400px;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  margin-left: 200px;
+}
+.headp{
+  color:white;
+}
+.links{
+  color: white;
+  text-align: center;
+}
+.linksys{
+  color:white;
+  text-align: left;
+  margin-left: 500px;
+}
+.linkssyss{
+  color:white;
+  text-align: center;
+  margin-right: 400px;
+}
+.Christianity span{
+  color: white;
+  background-color: black;
+}
+.Christianity{
+  text-align: left;
+  margin-left: 400px;
+}
+#tain{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+
+}
+.list{
+  text-align: left;
+  margin-left: 200px;
+}
+.sul{
+  text-align: left;
+  margin-left: 700px;
+}
+.suls{
+  text-align: left;
+}
+.More {
+  text-align: center;
+  margin-left: 450px
+}
+
+.picses{
+  width: 400px;
+  float:left;
+  margin-right: 20px;
+  margin-left: 200px;
+}
+.random{
+  display: block;
+  border: 0px;
+  height: 20px;
+  background-image: url(random.jpg);
+  margin-right: 400px;
+  width: 45%;
+}
+.listss{
+text-align: left;
+margin-left: 400px;
+}
+.picss{
+  width: 400px;
+  float:right;
+  margin-right: 40px;
+  margin-left: 20px;
+}
+.picsys{
+  width: 400px;
+  float:right;
+  margin-right: 150px;
+}
+.picsyss{
+  width: 400px;
+  float:right;
+  margin-right: 50px;
+}
+.picture{
+  width: 400px;
+  height: 700px;
+  float: left;
+}
+.Headss{
+  text-shadow: red;
+  color: white;
+  font-size: 60px;
+  font-family: sans-serif;
+  margin-right: 400px;
+}
+.Morestuff{
+  text-align: center;
+  margin-right: 450px;
+  font-size: 17px;
+}
+.copys{
+  text-align: center;
+  margin-right: 400px;
+}
+.backpack{
+  text-align: right;
+  margin-right: 100px;
+}
+.rabbit{
+  width: 400px;
+  float: left;
+  margin-left: 100px;
+}
+#waffle{
+  text-align: left;
+  margin-left: 175px;
+}
