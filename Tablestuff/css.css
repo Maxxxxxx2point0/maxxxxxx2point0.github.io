@@ -1,0 +1,33 @@
+.droid_pic{
+  width: 100%;
+}
+a:link {color: blue;}
+a:visited {color: cyan;}
+body{
+  background-color: #030409
+}
+#nav{
+  background-color: gray;
+  text-align: center;
+}
+table{
+  padding-bottom: 4px;
+}
+p{
+  color: white;
+  text-align: center;
+}
+.droidc{
+  width:100%;
+}
+.content{
+  padding-top: 10px;
+  padding-right: 10px;
+  border-right: 2px solid white;
+  width:20%;
+  float: left;
+}
+h3{
+  color:white;
+  text-align: center;
+}
