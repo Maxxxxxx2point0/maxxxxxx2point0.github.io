@@ -3,5 +3,27 @@ body{
 
 }
 .juice{
-  
+
+}
+table{
+  width: 100%;
+}
+.juice{
+  width: 100%
+}
+nav{
+  text-align: center;
+}
+.navb{
+  width: 100%;
+
+}
+#side{
+  padding-top: 10px;
+  padding-right: 10px;
+  width: 20%;
+  float: left;
+}
+#main{
+  width:80%;
 }
