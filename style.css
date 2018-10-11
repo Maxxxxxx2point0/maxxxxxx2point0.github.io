@@ -1,7 +1,9 @@
 body{
-  background-color: #1743b6;
-
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  color: white;
 }
+
 .juice{
 
 }
@@ -14,16 +16,21 @@ table{
 nav{
   text-align: center;
 }
-.navb{
-  width: 100%;
-
+.links{
+  border: 0px;
 }
 #side{
+  text-align: center;
   padding-top: 10px;
   padding-right: 10px;
+  border-right: 3px solid white;
   width: 20%;
   float: left;
 }
 #main{
   width:80%;
+  float: right;
+}
+tr{
+  padding-bottom: 0px;
 }
