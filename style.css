@@ -3,9 +3,23 @@ body{
   background-repeat: no-repeat;
   color: white;
 }
+p{
 
+  font-size: 15px;
+  font-family: serif;
+}
 .juice{
 
+}
+#findju{
+
+}
+.egg{
+  width: 200px;
+  height: 432px;
+}
+.eggsm{
+  width:150px;
 }
 table{
   width: 100%;
@@ -17,7 +31,10 @@ nav{
   text-align: center;
 }
 .links{
-  border: 0px;
+
+}
+.part{
+  font-size: 20px;
 }
 #side{
   text-align: center;
@@ -26,11 +43,27 @@ nav{
   border-right: 3px solid white;
   width: 20%;
   float: left;
+
 }
-#main{
-  width:80%;
-  float: right;
+#maini{
+  text-align: center;
+  padding-left: 300px;
+  float: left;
 }
-tr{
-  padding-bottom: 0px;
+#maint{
+  text-align: center;
+  padding-left: 100px;
+  float: left;
+}
+#mainth{
+  text-align: center;
+  padding-left: 95px;
+  float: left;
+}
+#footer{
+  text-align: center;
+}
+.grapes{
+  width: 400px;
+  
 }
