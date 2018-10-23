@@ -9,8 +9,21 @@ p{
   font-size: 15px;
   font-family: serif;
 }
+.boxx{
+  width: 450px;
+
+}
 .juice{
 
+}
+.small{
+  width: 200px;
+}
+.smaller{
+  width: 100px;
+}
+.smallerish{
+  width: 130px;
 }
 #findju{
 
@@ -40,6 +53,9 @@ nav{
 .part{
   font-size: 20px;
 }
+.obj{
+  font-size: 20px;
+}
 #side{
   text-align: center;
   padding-top: 10px;
@@ -47,11 +63,13 @@ nav{
   border-right: 3px solid white;
   width: 20%;
   float: left;
-
+}
+.five{
+  font-size: 20px;
 }
 #maini{
   text-align: center;
-  padding-left: 300px;
+  padding-left: 50px;
   float: left;
 }
 #maint{
