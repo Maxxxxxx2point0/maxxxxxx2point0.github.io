@@ -1,0 +1,100 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 100%;
+  /*background-attachment: fixed;*/
+  background-repeat: no-repeat;
+}
+.pich{
+  width: 100%;
+}
+.mainbody{
+  width: 100%;
+  height: 600px;
+  float: right;
+  background: rgba(200 , 255, 255, 0.5);
+
+}
+.qh{
+  background: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  text-align: center;
+  left: 39%;
+  font-size: 25px;
+  width: 30%;
+  top: 43%;
+  color: rgba(170, 255, 255, 1);
+
+}
+.quotes{
+  position: absolute;
+  text-align: center;
+  left: 25%;
+  top: 58%;
+  font-size: 25px;
+}
+.navbar{
+  text-align: center;
+}
+.navbarpic:hover{
+  width: 137px;
+}
+.navbarpicp:hover{
+  width: 302px;
+}
+.navbarpici:hover{
+  width: 220px;
+}
+.Side{
+  background: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  float: left;
+  width: 15%;
+  height: 580px;
+  margin: 10px;
+  font-size: 30px;
+  z-index: 1;
+}
+#porg{
+  width: 90%;
+  padding: 10px;
+  margin-top: 20px;
+}
+#rg{
+  width: 90%;
+  padding: 10px;
+  margin-top: 50px;
+}
+.links{
+  padding: 10px;
+}
+a:link{color: white;}
+a:visited{color: #005f73;}
+.imageone{
+}
+.reyone{
+  position: absolute;
+  bottom: -2%;
+  left: 58%;
+  width: 40%;
+  padding: 10px;
+}
+.imagetwo{
+}
+.reytwo{
+  position: absolute;
+  bottom: -4%;
+  left: 17%;
+  width: 40%;
+  padding: 10px;
+}
+.imagethree{
+
+}
+.footer{
+  text-align: center;
+  color: white;
+  position: relative;
+}
+footer{
+
+}

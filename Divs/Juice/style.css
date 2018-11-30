@@ -1,0 +1,91 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat:repeat-y;
+  color: white;
+  text-align: center;
+}
+p{
+
+  font-size: 15px;
+  font-family: serif;
+}
+.boxx{
+  width: 450px;
+
+}
+.juice{
+
+}
+.small{
+  width: 200px;
+}
+.smaller{
+  width: 100px;
+}
+.smallerish{
+  width: 130px;
+}
+#findju{
+
+}
+#cherry{
+
+}
+.egg{
+  width: 200px;
+  height: 432px;
+}
+.eggsm{
+  width:150px;
+}
+table{
+  width: 100%;
+}
+.juice{
+  width: 100%
+}
+nav{
+  text-align: center;
+}
+.links{
+
+}
+.part{
+  font-size: 20px;
+}
+.obj{
+  font-size: 20px;
+}
+#side{
+  text-align: center;
+  padding-top: 10px;
+  padding-right: 10px;
+  border-right: 3px solid white;
+  width: 20%;
+  float: left;
+}
+.five{
+  font-size: 20px;
+}
+#maini{
+  text-align: center;
+  padding-left: 50px;
+  float: left;
+}
+#maint{
+  text-align: center;
+  padding-left: 100px;
+  float: left;
+}
+#mainth{
+  text-align: center;
+  padding-left: 95px;
+  float: left;
+}
+#footer{
+  text-align: center;
+}
+.grapes{
+  width: 400px;
+
+}

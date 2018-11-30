@@ -1,0 +1,78 @@
+body{
+  background-color: black;
+}
+#topnav{
+  width: 100%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: blue;
+  text-align: center;
+  background-color: black;
+
+}
+#mainwrapper{
+}
+#divone-wrapper{
+  text-align: center;
+}
+#boxone{
+  background-color: white;
+  height: 20%;
+  margin: 20px;
+  padding: 20px;
+}
+#boxtwo-wrapper{
+
+}
+#boxtwo{
+  background-color: blue;
+  height: 10%;
+  padding: 5px;
+  width:45%;
+}
+.boxtwo-text{
+
+}
+#boxtwo-three{
+  background-color: yellow;
+  float:right;
+  width: 45%;
+  padding: 5px;
+  height: 10%;
+}
+#boxthree{
+  background-color: cyan;
+  width: 60%;
+}
+#boxfour{
+  background-color: magenta;
+  width: 20%;
+}
+.pictures{
+  width: 50%;
+}
+#boxfourtext{
+  color: black;
+}
+.bthreetext{
+  color: black;
+}
+#leftdiv{
+  float: left;
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  padding-right: 10px;
+}
+#footer{
+  border: 5px;
+  border-color: blue;
+  background-color: #3a3e44;
+  width: 100%;
+
+}
+#foottext{
+  text-align: center;
+}
+a:link{color:green;}
+a:visited{color:white;}

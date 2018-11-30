@@ -1,0 +1,58 @@
+body{
+  background-color: #494d54;
+}
+.head{
+}
+.headpic{
+  width: 100%;
+}
+.infobox{
+  background-color: blue;
+  width: 20%;
+  height: 1000px;;
+}
+.topb{
+  position: relative;
+  top: -800px;
+  left: 21%;
+  width: 78%;
+  height: 500px;
+  background-color: black;
+  color: white;
+}
+.topbbox{
+  position: relative;
+  top: -1200px;
+  left: 30%;
+  width: 40%;
+  height: 250px;
+  background-color: white;
+}
+.lowb{
+  position: relative;
+  top: -1000px;
+  left: 21%;
+  width: 78%;
+  height: 500px;
+  background-color: green;
+  color: white;
+}
+.footer{
+  text-align: center;
+  position: relative;
+  top: -900px;
+  left: 21%;
+  width: 78%;
+  height: 400px;
+  background-color: purple;
+  color: white;
+}
+.footerb{
+  position: relative;
+  top: -1200px;
+  left: 25%;
+  width: 70%;
+  height: 200px;
+  background-color: black;
+  color: white;
+}
