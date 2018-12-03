@@ -14,8 +14,13 @@ body{
   height: 600px;
   float: right;
   background: rgba(200 , 255, 255, 0.5);
-
 }
+/*.{
+  width: 100%;
+  height: 600px;
+  float: right;
+  background: rgba(200 , 255, 255, 0.5);
+}*/
 .import{
   position: absolute;
   text-align: center;
