@@ -1,0 +1,41 @@
+body{
+  display: flex;
+  background-color: blue;
+}
+.div1{
+
+}
+.div2{
+
+}
+.div3{
+  display: flex;
+  margin: auto;
+}
+
+.div1{
+  background-color: purple;
+  position: relative;
+  height: 400px;
+  width: 400px;
+}
+.div2{
+  background-color: green;
+  position: relative;
+  width: 300px;
+  height: 300px;
+
+}
+.div3{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+.div4{
+  background-color: yellow;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100px;
+  width: 100px;
+}

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Forms</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+  </head>
+  <body>
+    <div class="myform">
+      <h1>Let me Fish your info</h1>
+      <form class=""  method="post" action="mailto:joe@example.com?" enctype="text/plain">
+
+        <input type="text" name="first name" size="15" placeholder="first name" class="fn"><br>
+        <input type="text" name="last name" size="30" placeholder="last name" class="ln"><br>
+        <input type="text" name="phone" placeholder="phone" size="15" maxlength="10" required = "required" class="phone"><br>
+        <input type="text" name="address" placeholder="address" required="required" class="address"><br>
+        <input type="text" name="state" placeholder="state" size="10" maxlength="2" required="required" class="state"><br>
+        <input type="text" name="city" placeholder="city" size="15" required="required" class="city"> <br>
+        <input type="text" name="zip" placeholder="zipcode" size="10" required="required" maxlength="5" class="zip">
+        <p>special field types <br>
+          email address <input type="email"><br>
+          webpages <input type="url"><br>
+          <input type="text" name="" value="">
+
+          <!--text area-->
+          <textarea name="esssayquestion" rows="5" maxlength="2000" class="ess"></textarea><br>
+          <input type="submit" value="send it in"><br>
+          <input type="reset" value="clear"><br>
+          </p>
+          <button type="submit" name="button"><img src="home.png" alt="crap"></button>
+          <table>
+            <tr>
+              <td>First Name</td>
+              <td><input type = "text" name = "name"></td>
+            </tr>
+            <tr>
+              <td>last name</td>
+              <td><input type = "text" name = "last name"></td>
+            </tr>
+            <tr>
+            <td>address</td>
+            <td><input type = "text" name = "address"></td>
+          </tr>
+          </table>
+          <div class="seconddiv">
+            <fieldset>
+              <legend>Billing Address</legend>
+              <label>Street:<input type="text" name="Street" size="54"></label>
+            </fieldset>
+          </div>
+          <br>
+          <br>
+          <!--Form Controls-->
+          <div>
+            <label>Phone Number:
+            <input type="tel" name="mobile" id="mobile" maxlength="10">
+            </label>
+
+            <label>Choose Color:</label>
+              <input type="text" name="color" list="colors">
+            <datalist class="colors">
+              <option value="red" label="red"></option>
+              <option value="blue" label="blue"></option>
+                <option value="yellow" label="yellow"></option>
+            </datalist>
+
+          </div>
+          <div class="slideer">
+            <label for="myrange">Choose a number between 1 and 100</label><br>
+            <input type="range" min="1"max="100" value="50" class="slider">
+          </div>
+          <input type="number" name="myChoice" id="mychoice"min="1"max="10">
+          <input type="date" name="mydata" value="">
+
+          <div class="whatcutchuses">
+            <fieldset>
+            <legend>Check Boxes</legend>
+            <label>Repair</label>
+            <input type="checkbox" name="repair" checked = "checked">
+            <br>
+            <label>Repair All</label>
+            <input type="checkbox" name="repair all" value="">
+            <br>
+            <br>
+            <label>Optional Buttons</label>
+            <label>what medal</label>
+            <p>
+              <input type="radio" name="medals" value="gold">
+              gold
+              <br>
+              <input type="radio" name="medals" value="silver">
+              silver
+              <br>
+              <input type="radio" name="medals" value="bronze">
+              bronze
+            </p>
+              </fieldset>
+              <input type="password" name="pword" size="15">
+              <fieldset>
+                <legend>dropdownlist</legend>
+                <label>color</label>
+                <select class="clor" name="colors" size="1">
+                  <optgroup label="primary colors">
+                    <option>Red</option>
+                    <option>Blue</option>
+                    <option>yellow</option>
+                  </optgroup>
+                  <optgroup label="secondary">
+                    <option>Green</option>
+
+                    <option>purple</option>
+                  </optgroup>
+                </select>
+              </fieldset>
+          </div>
+      </form>
+    </div>
+  </body>
+</html>
