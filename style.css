@@ -11,32 +11,278 @@ body{
 .headpic{
   width: 100%;
 }
+nav{
+  width: 100%;
+}
 .navbar{
-
+  text-align: center;
+  padding-bottom: 10px;
+}
+.navimg1:hover{
+  width: 120px;
+}
+.navimg2:hover{
+  width: 203px;
+}
+.navimg3:hover{
+  width: 161px;
+}
+.navimg4:hover{
+  width: 306px;
 }
 .mainbody{
   width: 100%;
   height: 700px;
-  background-color: rgba(200, 200, 255, 0.5);
+  background-color: rgba(40, 40, 45, 0.7);
   float: right;
+  text-align: center;
+}
+.video{
+  width: 60%;
+  margin-bottom: 20px;
+}
+.formtwo{
+  position: absolute;
+  top: 70%;
+  left: 45%;
+  text-align: center;
+}
+.text{
+  position: absolute;
+  top: 400px;
+  left: 28%;
+}
+.main_body{
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 36%;
+}
+h3{
+  font-family: sans-serif;
+}
+p{
+  font-family: serif;
+  font-size: 16px;
+}
+hr{
+
+}
+.software{
+  position: absolute;
+  text-align: center;
+  background-color: rgba(100, 100, 200, 0.6);
+  z-index: 1;
+  top: 45%;
+  left: 10%;
+  padding: 10px;
+  font-family: sans-serif;
+}
+.st{
+  text-align: center;
+  position: absolute;
+  top: 60%;
+  left: 40%;
+  width: 20%;
+}
+.sot{
+  text-align: center;
+  position: absolute;
+  top: 60%;
+  left: 5%;
+  width: 20%;
+}
+.ht{
+  text-align: center;
+  position: absolute;
+  top: 60%;
+  left: 76%;
+  width: 20%;
+}
+.hardware{
+  position: absolute;
+  text-align: center;
+  background-color: rgba(100, 100, 200, 0.6);
+  z-index: 1;
+  top: 45%;
+  left: 80%;
+  padding: 10px;
+  font-family: sans-serif;
+}
+.hhh{
+  position: absolute;
+  text-align: center;
+  background-color: rgba(100, 100, 200, 0.6);
+  z-index: 1;
+  top: 45%;
+  left: 45%;
+  padding: 10px;
+  font-family: sans-serif;
+}
+.bill{
+  width: 96%;
+  position: absolute;
+  text-align: center;
+  background-color: rgba(100, 100, 200, 0.6);
+  z-index: 1;
+  top: 94%;
+  left: 1%;
+  padding: 10px;
+  font-family: sans-serif;
+}
+.bt{
+  width: 96%;
+  position: absolute;
+  text-align: center;
+  z-index: 1;
+  top: 104%;
+  left: 1%;
+  padding: 10px;
+  font-family: serif;
+}
+ul{
+  list-style-type: none;
+  margin-right: 20px;
 }
 .hh{
+  position: absolute;
+  text-align: center;
+  background-color: rgba(100, 100, 200, 0.6);
+  z-index: 1;
+  top: 45%;
+  left: 50%;
+  padding: 10px;
+  font-family: sans-serif;
+}
+.sh{
+  position: absolute;
+  text-align: center;
+  background-color: rgba(100, 100, 200, 0.6);
+  z-index: 1;
+  top: 45%;
+  left: 50%;
+  padding: 10px;
+  font-family: sans-serif;
+}
+.shh{
+  position: absolute;
+  text-align: center;
+  background-color: rgba(100, 100, 100, 1);
+  z-index: 1;
+  top: 65%;
+  left: 41%;
+  padding: 10px;
+  color: white;
+  padding-left: 48px;
+  padding-right: 48px;
+}
+.shh:hover{
+  background-color: rgba(0, 0, 0, 0.0);
+  color: rgba(0, 0, 0, 0.0);
+}
+.mail{
+  position: absolute;
+  text-align: center;
+  background-color: rgba(100, 100, 100, 0.8);
+  top: 65%;
+  left: 41%;
+  padding: 10px;
+  color: white
+}
 
+.sp{
+  color: black;
 }
 .Side{
+  position: absolute;
+  top: 300px;
+  width: 350px;
+  height: 600px;
+  background-color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  color: black;
+}
+.joke{
+  width: 60%;
+}
+a:link{
+  color: white;
+}
+a:visited{
+  color: blue;
+}
+a:hover{
+  font-size: 30px;
+}
+a:active{
+  color: green;
+}
+.images{
+  width: 200px;
 
+}
+.ph{
+  position: absolute;
+  top: 550px;
+  left: 45%;
+  text-align: center;
+}
+.imageoned{
+  width: 500px;
+  position: absolute;
+  top: 600px;
+  left: 65%;
+}
+.imagetwod{
+  width: 500px;
+  position: absolute;
+  top: 680px;
+  left: 40%;
 }
 .imageone{
-
+  width: 500px;
+  position: absolute;
+  top: 600px;
+  left: 59%;
 }
-.imagetwo{
 
+.imagetwo{
+  width: 500px;
+  position: absolute;
+  top: 600px;
+  left: 27%;
 }
 .imagethree{
-
+  width: 500px;
+  position: absolute;
+  top: 600px;
+  left: 43%;
+}
+.giga{
+  width: 500px;
+  position: absolute;
+  top: 340px;
+  left: -5%;
+}
+.skill{
+  width: 500px;
+  position: absolute;
+  top: 740px;
+  left: -5%;
+}
+.intel{
+  width: 500px;
+  position: absolute;
+  top: 580px;
+  left: -5%;
+}
+.desktop{
+  width: 350px;
 }
 .footer{
-
+  position: absolute;
+  top: 1000px;
+  right: 40%;
 }
 footer{
   text-align: center;
