@@ -50,10 +50,11 @@ nav{
 }
 .text{
   position: absolute;
-  top: 400px;
-  left: 28%;
+  top: 60%;
+  left: 24%;
   text-align: center;
   z-index: 1;
+  width: 75%;
 }
 .main_body{
   width: 100%;
